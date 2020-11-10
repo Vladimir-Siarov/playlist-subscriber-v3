@@ -1,0 +1,16 @@
+html, body {
+	background-color: #f4f4f4;
+}
+
+.panel-content {
+	margin-top: 25px;
+	background-color: #fff;
+	min-height: 500px;
+	border:solid 1px #eee;
+	border-radius: 3px;
+	box-shadow: #eee 5px 5px 10px;
+}
+.panel-aside,
+.panel-header {
+	margin-top: 65px;
+}
